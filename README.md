@@ -6,6 +6,11 @@
 
 # Commands to Install
 
+# Get started 
+```console
+https://gaianet.ai/reward?invite_code=RyPEGQ
+```
+
 ## Install Dependencies
 ```console
 sudo apt update && sudo apt upgrade -y
